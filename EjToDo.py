@@ -12,9 +12,9 @@ import datetime
 
 # Datos de usuarios y contraseñas
 users = {
-    "M": "mt",
-    "I": "it",
-    "L": "lt"
+    "marc": "mt",
+    "inma": "it",
+    "luis": "lt"
 }
 
 # Inicializar session_state si no existen
